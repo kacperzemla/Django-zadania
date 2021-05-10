@@ -26,3 +26,7 @@ wszystkie obiekty Exercise ( screen ze slajdu 14 ). Przekaż do funkcji return r
   
 ![image](https://user-images.githubusercontent.com/56030578/117650420-f6442480-b190-11eb-8a91-c4d22d4aaead.png)
 
+# Uwagi
+projekt tworzymy komendą startproject
+aplikacje tworzymy komendą startapp
+Najlepiej jest nie nazywać tego samego, żeby później nie pogubić się w tych folderach
