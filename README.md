@@ -20,7 +20,7 @@ Dodaj swoje pierwsze ćwiczenie.
 ![image](https://user-images.githubusercontent.com/56030578/117650359-e6c4db80-b190-11eb-941a-4ec19034dcdc.png)
 
 # Zadanie 3
-W bazie danych stwórz 5 ćwiczeń. Twoim celem będzie wyświetlenie ich na stronie. W tym celu utwórz folder templates w folderze aplikacji i w nim jeszcze jeden folder o tej samej nazwie co aplikacja ( w views  trzeba zaimportować folder template) , a w nim plik html i w odpowiednim pliku stwórz funkcję, która zwróci ten plik html jako widok ( wskazówki znajdują się w prezentacji ). 
+W bazie danych stwórz 5 ćwiczeń. Twoim celem będzie wyświetlenie ich na stronie. W tym celu utwórz folder templates w folderze aplikacji i w nim jeszcze jeden folder o tej samej nazwie co aplikacja ( w views  trzeba zaimportować folder template - from . import templates) , a w nim plik html i w odpowiednim pliku stwórz funkcję, która zwróci ten plik html jako widok ( wskazówki znajdują się w prezentacji ). 
 Następnie w tej funkcji utwórz zmienną do, której przypiszesz 
 wszystkie obiekty Exercise ( screen ze slajdu 14 ). Przekaż do funkcji return render listę obiektów i wyświetl na stronie Twoje zadania. ( Wzoruj się na linii 143 z pliku exercises.html, dane wstaw w znacznik htmlowy p ) 
   
