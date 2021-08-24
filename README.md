@@ -1,3 +1,5 @@
+# Opis
+Zadania oraz prezentacja z frameworka Django przygotowane na zajęcia z Języków Programowania Wysokiego Poziomu
 # Zadanie 1
 Stwórz samodzielnie od zera projekt. Kieruj się wskazówkami z 9  i 10 slajdu.
 Po uruchomieniu serwera powinna wyświetlać się następująca strona.
